@@ -2,7 +2,9 @@
 
 Student | Technician | Assistant Manager
 
-About Me: Hello, I'm Rohit Biswas, a student at Fordham University pursuing Engineering Physics and Computer Science on a 3-2 Engineering Track. Currently, I am working as an IT Intern at EnrollTech, where I use FreshDesk, FreshService, ServiceNow, and EasyVista to address incident and service request tickets.
+**About Me:** 
+
+Hello, I'm Rohit Biswas, a student at Fordham University pursuing Engineering Physics and Computer Science on a 3-2 Engineering Track. Currently, I am working as an IT Intern at EnrollTech, where I use FreshDesk, FreshService, ServiceNow, and EasyVista to address incident and service request tickets.
 
 **Education:**
 
