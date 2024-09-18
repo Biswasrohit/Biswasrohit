@@ -1,6 +1,6 @@
 **Rohit Biswas**
 
-Student | Technician | Assistant Manager
+Student | Technician | Assistant Manager | CodePath
 
 **About Me:** 
 
