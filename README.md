@@ -62,4 +62,6 @@ Bachelor of Science in Engineering Physics
 - **Fordham University:** Machine Learning and Artificial Intelligence Club (MLAI), Society of Physics Students (SPS)  
 - **CyberStart:** National Cyber Scholarship Scholar (Jun 2022 – Aug 2022)  
 
+---
+
 Feel free to connect with me for collaborations, mentorship, or a chat about quantum computing, robotics, or tech innovation!
