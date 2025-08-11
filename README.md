@@ -1,9 +1,9 @@
 <!-- Centered banner (optional) -->
-<p align="center"><img src="https://media.tenor.com/tW0b0wDTNBMAAAAi/bhago-bhago-re-baba.gif" width="150" alt="banner" /></p>
+<p align="center"><img src="https://media.tenor.com/tW0b0wDTNBMAAAAi/bhago-bhago-re-baba.gif" width="150" height="100" alt="banner" /></p>
 
 <h1 align="center">Hey, I'm Rohit 👋</h1>
 <p align="center">
-  NYC · <a href="mailto:info.biswasrohit@gmail.com">info.biswasrohit@gmail.com</a> ·
+  Queens, NY · <a href="mailto:info.biswasrohit@gmail.com">info.biswasrohit@gmail.com</a> ·
   <a href="https://rohitbiswas.com">rohitbiswas.com</a> ·
   <a href="https://www.linkedin.com/in/rohitbiswas3">LinkedIn</a>
 </p>
