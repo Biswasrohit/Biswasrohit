@@ -1,5 +1,5 @@
 <!-- Centered banner (optional) -->
-<p align="center"><img src="https://media.tenor.com/tW0b0wDTNBMAAAAi/bhago-bhago-re-baba.gif" width="720" alt="banner" /></p>
+<p align="center"><img src="https://media.tenor.com/tW0b0wDTNBMAAAAi/bhago-bhago-re-baba.gif" width="150" alt="banner" /></p>
 
 <h1 align="center">Hey, I'm Rohit 👋</h1>
 <p align="center">
