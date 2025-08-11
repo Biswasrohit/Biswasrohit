@@ -55,5 +55,5 @@
 
 ### 🤝 Let’s connect
 - Portfolio: **rohitbiswas.com**
-- LinkedIn: **/in/rohitbiswas3**
+- LinkedIn: **rohitbiswas3**
 - Email: **info.biswasrohit@gmail.com**
