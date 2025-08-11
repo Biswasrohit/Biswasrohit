@@ -1,5 +1,5 @@
 <!-- Centered banner (optional) -->
-<p align="center"><img src="https://media.tenor.com/tW0b0wDTNBMAAAAi/bhago-bhago-re-baba.gif" width="150" height="50" alt="banner" /></p>
+<p align="center"><img src="https://media.tenor.com/tW0b0wDTNBMAAAAi/bhago-bhago-re-baba.gif" width="150" alt="banner" /></p>
 
 <h1 align="center">Hey, I'm Rohit 👋</h1>
 <p align="center">
@@ -11,9 +11,8 @@
 ---
 
 ### 🚀 What I’m into
-- Frontend with React + Vite, a11y, and performance
-- iOS and backend experiments
-- Security + incident response curiosity from recent work
+- Full Stack Development with React + Vite and performance
+- Engineering for Humanity
 
 ### 🧰 Tech I use
 <!-- Languages -->
@@ -49,8 +48,8 @@
 
 ### 📈 By the numbers
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Biswasrohit&show_icons=true&hide_title=true&theme=transparent" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswasrohit&layout=compact&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Biswasrohit&show_icons=true&hide_title=true&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswasrohit&layout=compact&theme=transparent" height="150" />
 </p>
 
 ### 🤝 Let’s connect
