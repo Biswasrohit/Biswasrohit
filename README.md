@@ -41,10 +41,10 @@
 ![GCP](https://img.shields.io/badge/GCP-1a73e8?logo=googlecloud&logoColor=white)
 
 ### 📌 Pinned things
-- **HobbyHub (React + Supabase + Recharts)** – community chat + dashboards  
-  <a href="https://github.com/Biswasrohit/CodePathFinalProject">Repo</a>
-- **R2D3 (C++/Arduino)** – dual-axis solar tracker with custom printed parts  
-  <a href="https://github.com/Biswasrohit/r2d3">Repo</a>
+- **rohitbiswas.com** – personal portfolio
+  <a href="https://github.com/Biswasrohit/rohitbiswas.com">Repo</a>
+- **PlanYourDates** – create itineraries for your s/o and send it to them
+  <a href="https://github.com/Biswasrohit/planyourdates">Repo</a>
 
 ### 📈 By the numbers
 <p>
