@@ -59,7 +59,7 @@
 | Project | Description | Link |
 | :--- | :--- | :---: |
 | **ContractPilot** | AI-powered legal document reviewer with multi-agent orchestration, RAG over 21K+ clauses, and OCR. Won Best Use of Flowglad at DevFest 2026. | [Repo](https://github.com/Biswasrohit/ContractPilot) |
-| **PageRank Visualizer** | Interactive PageRank algorithm visualizer built with React, TypeScript, and React Flow. | [Repo](https://github.com/Biswasrohit/pagerank-visualizer) |
+| **PageRank Visualizer** | Interactive PageRank algorithm visualizer built with React, TypeScript, and React Flow. | [Repo](https://github.com/Biswasrohit/rohibiswas.com) |
 | **rohitbiswas.com** | Personal developer portfolio. | [Repo](https://github.com/Biswasrohit/rohitbiswas.com) |
 | **PlanYourDates** | Create itineraries for your s/o and send it to them. | [Repo](https://github.com/Biswasrohit/planyourdates) |
 
